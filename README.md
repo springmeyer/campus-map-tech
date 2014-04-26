@@ -45,6 +45,14 @@ Campus maps using google maps
 1. [Bucknell University](http://www.bucknell.edu/script/communication/map/)
 
 1. [William & Mary](http://www.wm.edu/about/visiting/campusmap/index.php)
+
+1. [Brigham Young University](http://map.byu.edu/)
+
+1. [Utah State University](http://www.usu.edu/map/)
+
+1. [Utah Valley University](http://www.uvu.edu/maps/orem.html)
+
+1. [Weber State University](http://www.weber.edu/weberstatemap/)
  
 ## Esri
 
@@ -65,4 +73,6 @@ Campus maps using esri
 1. [Humboldt State University](http://humboldt.edu/explore/): OpenLayers + http://www.nucloud.com illustrations
 
 1. [Mount Mary University](http://www.mtmary.edu/campuslife/getting-around-campus/campus-map.html): OpenLayers + http://www.nucloud.com illustrations
+
+1. [Southern Utah University](http://www.suu.edu/campmap/campus.html) - image with links to building pages
 
