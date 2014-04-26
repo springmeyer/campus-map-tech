@@ -43,6 +43,8 @@ Campus maps using google maps
 1. [University of Hawaii](http://manoa.hawaii.edu/campusmap/)
 
 1. [Bucknell University](http://www.bucknell.edu/script/communication/map/)
+
+1. [William & Mary](http://www.wm.edu/about/visiting/campusmap/index.php)
  
 ## Esri
 
@@ -53,6 +55,8 @@ Campus maps using esri
 1. [University of Missouri](http://map.missouri.edu/) 
 
 ## Other
+
+1. [California Polytechnic State University](http://maps.calpoly.edu/) - flash
 
 1. [University of Oregon](http://map.uoregon.edu/) - flash
 
