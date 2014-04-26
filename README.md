@@ -4,6 +4,8 @@ Incomplete listing of interactive campus maps and the main technology they use. 
 
 Campus maps using open source software
 
+1. [Universify of California, Santa Cruz](http://maps.ucsc.edu/): OpenLayers + OSM / Leaflet + OSM
+
 1. [University of Colorado Boulder](http://www.colorado.edu/map/): Leaflet + Mapbox + TileMill + OSM
 
 1. [University of Wisconsin-Madison](http://map.wisc.edu/): Leaflet + Mapbox + TileMill + OSM
@@ -45,24 +47,40 @@ Campus maps using google maps
 1. [Bucknell University](http://www.bucknell.edu/script/communication/map/)
 
 1. [William & Mary](http://www.wm.edu/about/visiting/campusmap/index.php)
- 
+
+1. [University of California, Berkeley](http://www.berkeley.edu/map/googlemap/)
+
+1. [University of California, Davis](http://campusmap.ucdavis.edu)
+
+1. [University of California, Irvine](http:/www.uci.edu/campusmap)
+
+1. [University of California, Riverside](http://campusmap.ucr.edu/imap/)
+
+
+
 ## Esri
 
 Campus maps using esri
+
+1. [University of California, Santa Barbara](http://map.geog.ucsb.edu)
+
+1. [University of California, Los Angeles](http://maps.ucla.edu/campus): Esri + Flex
 
 1. [University of Kentucky](http://maps.uky.edu/campusmap/)
 
 1. [University of Missouri](http://map.missouri.edu/) 
 
+1. [University of Oregon](http://map.uoregon.edu/) - Esri + Flex
+
 ## Other
 
 1. [California Polytechnic State University](http://maps.calpoly.edu/) - flash
-
-1. [University of Oregon](http://map.uoregon.edu/) - flash
 
 1. [Louisiana State University](http://campusmap.lsu.edu/map/framesetup.asp) - flash
 
 1. [Humboldt State University](http://humboldt.edu/explore/): OpenLayers + http://www.nucloud.com illustrations
 
 1. [Mount Mary University](http://www.mtmary.edu/campuslife/getting-around-campus/campus-map.html): OpenLayers + http://www.nucloud.com illustrations
+
+1. [University of California, San Diego](http://maps.ucsd.edu/mapping/viewer/default.htm): FacilitiesLink
 
