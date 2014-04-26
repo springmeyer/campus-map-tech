@@ -56,6 +56,8 @@ Campus maps using esri
 
 ## Other
 
+1. [California Polytechnic State University](http://maps.calpoly.edu/) - flash
+
 1. [University of Oregon](http://map.uoregon.edu/) - flash
 
 1. [Louisiana State University](http://campusmap.lsu.edu/map/framesetup.asp) - flash
