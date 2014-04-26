@@ -43,6 +43,8 @@ Campus maps using google maps
 1. [University of Hawaii](http://manoa.hawaii.edu/campusmap/)
 
 1. [Bucknell University](http://www.bucknell.edu/script/communication/map/)
+
+1. [William & Mary](http://www.wm.edu/about/visiting/campusmap/index.php)
  
 ## Esri
 
