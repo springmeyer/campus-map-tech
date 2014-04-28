@@ -8,6 +8,8 @@ Campus maps using open source software
 
 1. [University of Wisconsin-Madison](http://map.wisc.edu/): Leaflet + Mapbox + TileMill + OSM
 
+1. [Universify of California, Santa Cruz](http://maps.ucsc.edu/): OpenLayers + OSM / Leaflet + OSM
+
 1. [Univerity of Montana](http://map.umt.edu/): TileMill
 
 1. [University of Delaware](http://maps.rdms.udel.edu/map/index.php): OpenLayers + OSM
@@ -15,6 +17,7 @@ Campus maps using open source software
 1. [University of Maryland](https://terpnav.umd.edu/map/): OpenLayers + OSM
 
 1. [Vassar College](http://info.vassar.edu/visit/maps/): OpenLayers + ExtJS
+
 
 ## Google Maps
 
@@ -45,20 +48,40 @@ Campus maps using google maps
 1. [Bucknell University](http://www.bucknell.edu/script/communication/map/)
 
 1. [William & Mary](http://www.wm.edu/about/visiting/campusmap/index.php)
- 
+
+1. [Brigham Young University](http://map.byu.edu/)
+
+1. [Utah State University](http://www.usu.edu/map/)
+
+1. [Utah Valley University](http://www.uvu.edu/maps/orem.html)
+
+1. [Weber State University](http://www.weber.edu/weberstatemap/)
+
+1. [University of California, Berkeley](http://www.berkeley.edu/map/googlemap/)
+
+1. [University of California, Davis](http://campusmap.ucdavis.edu)
+
+1. [University of California, Irvine](http:/www.uci.edu/campusmap)
+
+1. [University of California, Riverside](http://campusmap.ucr.edu/imap/)
+
 ## Esri
 
-Campus maps using esri
+Campus maps using Esri
 
 1. [University of Kentucky](http://maps.uky.edu/campusmap/)
 
 1. [University of Missouri](http://map.missouri.edu/) 
 
+1. [University of California, Santa Barbara](http://map.geog.ucsb.edu)
+
+1. [University of California, Los Angeles](http://maps.ucla.edu/campus): Esri + Flex
+
+1. [University of Oregon](http://map.uoregon.edu/) - Esri + Flex
+
 ## Other
 
 1. [California Polytechnic State University](http://maps.calpoly.edu/) - flash
-
-1. [University of Oregon](http://map.uoregon.edu/) - flash
 
 1. [Louisiana State University](http://campusmap.lsu.edu/map/framesetup.asp) - flash
 
@@ -67,3 +90,7 @@ Campus maps using esri
 1. [Mount Mary University](http://www.mtmary.edu/campuslife/getting-around-campus/campus-map.html): OpenLayers + http://www.nucloud.com illustrations
 
 1. [Münster University - Leonardo Campus (GER)](http://www.leonardocampus.de/) - HTML5
+
+1. [Southern Utah University](http://www.suu.edu/campmap/campus.html) - image with links to building pages
+
+1. [University of California, San Diego](http://maps.ucsd.edu/mapping/viewer/default.htm): FacilitiesLink
