@@ -67,5 +67,3 @@ Campus maps using esri
 1. [Mount Mary University](http://www.mtmary.edu/campuslife/getting-around-campus/campus-map.html): OpenLayers + http://www.nucloud.com illustrations
 
 1. [Münster University - Leonardo Campus (GER)](http://www.leonardocampus.de/) - HTML5
-
-
