@@ -65,6 +65,8 @@ Campus maps using google maps
 
 1. [University of California, Riverside](http://campusmap.ucr.edu/imap/)
 
+1. [Stanford University](http://campus-map.stanford.edu/)
+
 ## Esri
 
 Campus maps using Esri
