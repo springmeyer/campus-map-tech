@@ -81,6 +81,8 @@ Campus maps using Esri
 
 1. [University of Oregon](http://map.uoregon.edu/) - Esri + Flex
 
+1. [Western Washington University](http://www.wwu.edu/map)
+
 ## Other
 
 1. [California Polytechnic State University](http://maps.calpoly.edu/) - flash
