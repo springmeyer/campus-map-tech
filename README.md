@@ -98,3 +98,6 @@ Campus maps using Esri
 1. [Southern Utah University](http://www.suu.edu/campmap/campus.html) - image with links to building pages
 
 1. [University of California, San Diego](http://maps.ucsd.edu/mapping/viewer/default.htm): FacilitiesLink
+
+1. [University of Texas at Dallas, Dallas](http://www.utdallas.edu/maps/) - Flash 
+
